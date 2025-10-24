@@ -1,6 +1,6 @@
 # Hi there, I'm Bendali Manal! 👋🏻
 
-I'm a passionate software engineer with a love for crafting innovative solutions and exploring new technologies. Currently pursuing my engineering degree in computer science, I'm enthusiastic about developing web and mobile applications that make a difference.
+I'm a passionate software engineer with a love for crafting innovative solutions and exploring new technologies. Currently pursuing my master's degree in computer science, I'm enthusiastic about developing web and mobile applications that make a difference.
 
 ## 🚀 About Me
 
